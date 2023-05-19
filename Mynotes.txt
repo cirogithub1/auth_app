@@ -22,5 +22,3 @@ NextAuth Course - Complete Authentication with Credentials, Google & GitHub
 	02:06:30 Postman.com
 	02:08:30 credentials provider from next-auth/providers
 	02:20:40 in the command line: openssl rand -base64 32
-	02:21:54
-	
