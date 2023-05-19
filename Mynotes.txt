@@ -1,0 +1,26 @@
+NextAuth Course - Complete Authentication with Credentials, Google & GitHub
+	- https://youtu.be/t0Fs0NO78X8
+
+	04:00 npx create-next-app <name> --ts 
+	05:00 tailwind
+				git remote add origin git@github.com:cirogithub1/auth_app.git
+				git branch -M main
+				git push -u origin main
+	06:33 Google fonts
+				npx tailwindcss -i ./styles/input.css -o ./styles/globals.css
+				npx tailwindcss -i ./styles/input.css -o ./styles/globals.css --watch 
+	58:00 NextAuth.js
+	01:01:00 Google credentials / consent screen
+	01:12:25 protect the route of a page
+	01:17:00 GitHub Authentication
+	01:22:02 create own Credentials with Formik
+	01:34:00 Formik.validate
+	01:40:48 Register validate
+	01:49:43 MongoDB npm i -D mongoose
+	01:53:42 Schema mongoose
+	02:03:58 npm i --save-dev bcrypt
+	02:06:30 Postman.com
+	02:08:30 credentials provider from next-auth/providers
+	02:20:40 in the command line: openssl rand -base64 32
+	02:21:54
+	
